@@ -9,8 +9,8 @@
 securechell/securechell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Here are a few things I can't do without, and would easily recommend:
-🎮 [**My Steam Deck**](https://store.steampowered.com/steamdeck/): handheld gaming computer I love to decompress with. I'm currently addicted to playing *Dead Cells* after previously being addicted to *Mark of the Ninja*.
+- Here are a few things I can't do without, and would easily recommend:
+-   🎮 [**My Steam Deck**](https://store.steampowered.com/steamdeck/): handheld gaming computer I love to decompress with. I'm currently addicted to playing *Dead Cells* after previously being addicted to *Mark of the Ninja*.
 
 🎧 **Podcasts**: mainly true crime (my faves are [Swindled](https://swindledpodcast.com/), [Darknet Diaries](https://darknetdiaries.com/), and [RedHanded](https://redhandedpodcast.com/)), with [My Therapist Ghosted Me](https://www.mytherapistghostedme.com/) thrown in to lighten things up a bit!
 
