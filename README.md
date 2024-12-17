@@ -1,6 +1,6 @@
 👋 Hi, I’m @securechell
 👀 I’m interested in gaming, reading, crime documentaries, and bottomless brunch.
-- 🌱 I’m currently learning a whole lot of cyber stuff. Right now I'm doing the TryHackMe Advent of Cyber.
+🌱 I’m currently learning a whole lot of cyber stuff. Right now I'm doing the TryHackMe Advent of Cyber.
 - 💞️ I’m looking to collaborate on anything related to cybersecurity! Especially the Incident Response side of things
 - 📫 You can reach me via [**LinkedIn**](https://www.linkedin.com/in/cheryll-o/)
 - ⚡ Fun fact: I'm from a completely non-technical background. Think medical sciences, human sciences, healthcare...yep, not cyber at all!
